@@ -1,0 +1,23 @@
+{
+  "canvas": "#101b24",
+  "surface": "#16232e",
+  "surfaceSecondary": "#1d2e3b",
+  "overlay1": "rgba(163,203,230,0.06)",
+  "overlay2": "rgba(163,203,230,0.10)",
+  "border1": "rgba(163,203,230,0.12)",
+  "border2": "rgba(163,203,230,0.18)",
+  "border3": "rgba(163,203,230,0.36)",
+  "text": "#e2edf4",
+  "text2": "#b3c6d3",
+  "text3": "#87a0b0",
+  "text4": "#64798a",
+  "brand": "#5aa2d6",
+  "brandHover": "#6fb1e0",
+  "brandActive": "#4f93c6",
+  "brandSoft": "rgba(90,162,214,0.14)",
+  "brandBorder": "rgba(90,162,214,0.38)",
+  "info": "#5aa2d6",
+  "success": "#7fae8f",
+  "danger": "#d97f89",
+  "warning": "#d9b476"
+}

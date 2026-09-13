@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "eos.citrus",
+  "name": "柑橘",
+  "description": "暖橙活力：浅色是果肉与阳光，深色是烤箱与焦糖。",
+  "version": "1.0.0",
+  "author": "eosaios",
+  "license": "MIT",
+  "appearance": {
+    "light": "tokens/light.json",
+    "dark": "tokens/dark.json"
+  }
+}

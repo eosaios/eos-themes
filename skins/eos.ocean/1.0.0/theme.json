@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "eos.ocean",
+  "name": "海洋",
+  "description": "清爽海蓝：浅色是浪花与晴空，深色是深海与灯塔。",
+  "version": "1.0.0",
+  "author": "eosaios",
+  "license": "MIT",
+  "appearance": {
+    "light": "tokens/light.json",
+    "dark": "tokens/dark.json"
+  }
+}

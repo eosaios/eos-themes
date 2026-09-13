@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "eos.sakura",
+  "name": "樱花",
+  "description": "柔粉暖调：浅色是樱瓣与晨雾，深色是暮紫与花影。",
+  "version": "1.0.0",
+  "author": "eosaios",
+  "license": "MIT",
+  "appearance": {
+    "light": "tokens/light.json",
+    "dark": "tokens/dark.json"
+  }
+}
